@@ -1,6 +1,7 @@
 # README for API Test
 
-This is a very simple Rails (5.2) test application that demonstates using the OAuth2 Authorization grant type.
+This is a very simple Rails (5.2) test application that demonstates using the OAuth2 Authorization grant type
+for the Dryad API.
 
 Please see the following resources in our main repository:
 
